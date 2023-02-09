@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Assignment2</title>
+        <link rel="stylesheet" href="styles.css">
+        <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap" rel="stylesheet">
+        
+    </head>
+    <body>
+        <header><h1>Happy</h1>
+            <h3>Pharrell Williams</h3>
+        </header>
+        <center>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/C7dPqrmDWxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+            </iframe> <br>
+            <h6>Music video by Pharrell Williams performing Happy (from Despicable Me 2). (C) 2013 Columbia Records, a Division of Sony Music Entertainment 
+            </h6>
+        </center> 
+        <main>
+            <div class="verse1">
+                <p>
+                    🎵 It might seem crazy what I'm 'bout to say. <br>
+                    Sunshine she's here, you can take a break.<br>
+                    I'm a hot air balloon that could go to space. <br>
+                    With the air, like I don't care, baby, by the way. 🎵 <br>
+                </p>
+            </div>
+
+            <div class="chorus">
+                <p>
+                    🎵 (Because I'm happy) <br>
+                    Clap along if you feel like a room without a roof. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you feel like happiness is the truth. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you know what happiness is to you. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you feel like that's what you wanna do. 🎵 <br>
+                </p>
+            </div>
+
+            <div class="verse2">
+                <p>
+                🎵 Here come bad news, talking this and that (Yeah!) <br>
+                Well, give me all you got, don't hold it back (Yeah!) <br>
+                Well, I should probably warn ya, I'll be just fine (Yeah!) <br>
+                No offense to you, don’t waste your time, here's why. 🎵 <br>
+                </p>
+            </div>
+
+            <div class="chorus2">
+                <p>
+                🎵 (Because I'm happy) <br>
+                Clap along if you feel like a room without a roof. <br>
+                (Because I'm happy) <br>
+                Clap along if you feel like happiness is the truth. <br>
+                (Because I'm happy) <br>
+                Clap along if you know what happiness is to you. <br>
+                (Because I'm happy) <br>
+                Clap along if you feel like that's what you wanna do. 🎵 <br>
+                </p>
+            </div>
+
+            <div class="bridge">
+                <p>
+                    🎵 Bring me down <br>
+                    Can't nothing bring me down <br>
+                    My level's too high to bring me down <br>
+                    Can't nothing bring me down, I said <br>
+                    Bring me down <br>
+                    Can't nothing bring me down <br>
+                    My level's too high to bring me down <br>
+                    Can't nothing bring me down, I said 🎵 <br>
+                </p>
+            </div>
+
+            <div class="chorus3">
+                <p>
+                    🎵 (Because I'm happy) <br>
+                    Clap along if you feel like a room without a roof. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you feel like happiness is the truth. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you know what happiness is to you. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you feel like that's what you wanna do. 🎵 <br>
+                </p>
+            </div>
+
+            <div class="bridge2">
+                <p>
+                    🎵 Bring me down <br>
+                    Can't nothing bring me down <br>
+                    My level's too high to bring me down <br>
+                    Can't nothing bring me down, I said... 🎵 <br>
+                </p>
+            </div>
+
+            <div class="chorus4">
+                <p>
+                    🎵 (Because I'm happy) <br>
+                    Clap along if you feel like a room without a roof. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you feel like happiness is the truth. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you know what happiness is to you. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you feel like that's what you wanna do. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you feel like a room without a roof. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you feel like happiness is the truth. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you know what happiness is to you. <br>
+                    (Because I'm happy) <br>
+                    Clap along if you feel like that's what you wanna do(Come on) 🎵 <br>
+                </p>
+            </div>
+        </main>
+    </body>
+    <footer>
+        <h6>
+            Author: Juan Mendez Nunez
+            <a href="Happy.PharrellWilliams@gmail.com">Happy.PharrellWilliams@gmail.com</a>
+        </h6>
+    </footer>
+</html>
